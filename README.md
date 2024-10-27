@@ -8,7 +8,7 @@
 ## Features
 - Track a history of copied items.
 - Access clipboard items across multiple devices.
-- ~~Downloadable for macOS and iOS.~~
+- ~~Downloadable for macOS and iOS.~~ (*It's just a practice project*)
 
 ## Tech Stack
 - **HTML**
